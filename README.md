@@ -4,16 +4,14 @@
 
 </div>
 
----
 
-<img align="right" alt="coding gif" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="coding gif" width="120" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### Oiiii, eu sou o Cassiano! 👋
 
 Sou desenvolvedor apaixonado por tecnologia, morando atualmente em Presidente Prudente — SP
 <br clear="right"/>
 
----
 
 ### 🌐 Contato
 
@@ -43,31 +41,4 @@ Sou desenvolvedor apaixonado por tecnologia, morando atualmente em Presidente Pr
 
 ---
 
-### 📊 Estatísticas
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=casbilori4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casbilori4&layout=donut&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=casbilori4&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=casbilori4&color=blueviolet&style=for-the-badge&label=Visitas+ao+perfil)
-
-</div>
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
-</div>
